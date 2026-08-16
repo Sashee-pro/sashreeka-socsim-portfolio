@@ -1,15 +1,15 @@
 {
   "profile": {
-    "name": "[First] [Last]",
-    "role": "[Role] · [Team]",
-    "tagline": "[One sentence — your focus areas and what you're working toward.]",
-    "location": "[City, Country]",
+    "name": "Sashreeka Ranaweera",
+    "role": "Cybersecurity Graduate | SOC & DFIR",
+    "tagline": "Building practical skills in security operations, alert investigation, incident response, and digital forensics.",
+    "location": "Melbourne, Australia",
     "photo": "",
     "theme": "operator",
     "links": {
-      "linkedin": "",
-      "github": "",
-      "email": ""
+      "linkedin": "https://www.linkedin.com/in/sashreeka-ranaweera/",
+      "github": "https://github.com/Sashee-pro",
+      "email": "sashreekazenith@gmail.com"
     }
   },
   "alerts": [],
